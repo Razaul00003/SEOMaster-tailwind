@@ -1,0 +1,27 @@
+.section-hero {
+  background-image: url(../img/bg-dot.png), url(../img/bg-dot.png),
+    url(../img/bg-tree.png), url(../img/bg-bottom-hero.png);
+  background-position: 10px 10px, bottom 190px right 10px, left 45% bottom -1px,
+    center bottom -1px;
+  background-repeat: no-repeat;
+}
+.icon-box {
+  background-image: url("./img/icon-shape-primary.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.news {
+  background-image: url(./img/bg-newsletter.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section-testimonial {
+  background-image: url(./img/bg-newsletter.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+footer {
+  background-image: url(./img/footer.png);
+  background-size: cover;
+}
